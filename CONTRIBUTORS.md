@@ -9334,7 +9334,7 @@
 
 - [@BileOara](https://github.com/BileOara)
 
-- [@HerbertAF] (https://github.com/HerbertAF)
+- [<B>@HerbertAF</B>](https://github.com/HerbertAF)
 
 - [@SrijitaSaha2003](https://github.com/SrijitaSaha2003)
 
